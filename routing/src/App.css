@@ -1,0 +1,20 @@
+/* CSS for the navigation */
+nav {
+    background-color: #f35151; /* Background color for the navigation */
+    padding: 10px; /* Add padding to the navigation */
+  }
+  
+  /* CSS for the links */
+  nav a {
+    color: #fff; /* Link text color */
+    text-decoration: none; /* Remove default underline */
+    margin-right: 20px; /* Add spacing between links */
+    font-size: 16px; /* Adjust font size */
+    transition: color 0.3s ease; /* Smooth color transition on hover */
+  }
+  
+  /* Hover effect for links */
+  nav a:hover {
+    color: #ffcc00; /* Change link color on hover */
+  }
+  
